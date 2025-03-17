@@ -17,9 +17,11 @@
 
 * 张福新 fxzhang@ict.ac.cn 
 
-## 难度: 中-高
+## 难度
+中-高
 
-# License: GPL V3.0.
+# License
+GPL V3.0.
 
 ## 预期目标
 
